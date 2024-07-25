@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo 🖐️
+## Olá! Meu nome é Gustavo 🖐️
 
 ## Tecnologias que gosto e estou estudando:
 
