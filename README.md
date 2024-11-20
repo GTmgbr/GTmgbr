@@ -3,7 +3,8 @@
 
 Aficcionado por games, educação e tecnologia no geral 👨‍💻
 
-Tenho o interesse em explorar os ramos da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados.
+Tenho o interesse em ampliar minhas conexões com a comunidade dev e me aprofundar nos ramos da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados.
+
 
 ## Tecnologias que gosto e estou estudando:
 
