@@ -3,7 +3,7 @@
 
 Aficcionado por games, educação e tecnologia no geral 👨‍💻
 
-Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados.
+Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados 💻
 
 
 ## Skills/Ferramentas:
