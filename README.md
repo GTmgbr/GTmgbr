@@ -9,7 +9,7 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 ## Skills/Ferramentas:
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,react,angular,html,css,py,c,unity"/>
+  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,nodejs,react,angular,html,css,py,c,unity"/>
 </div><br/>
 
 
