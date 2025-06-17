@@ -6,10 +6,16 @@ Aficcionado por games, educação e tecnologia no geral 👨‍💻
 Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados 💻
 
 
-## Skills/Ferramentas:
+## Tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,py,c,unity"/>
+</div><br/>
+
+## Skills/Ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase"/>
 </div><br/>
 
 
