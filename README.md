@@ -18,11 +18,5 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase"/>
 </div><br/>
 
-## Contatos:
-
-<div> 
-<a href = "mailto:gustavo.totti14@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-totti-custodio/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" target="_blank"></a> 
-</div>&nbsp;&nbsp;
 
 
