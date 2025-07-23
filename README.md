@@ -15,7 +15,7 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 ## Skills/Ferramentas:
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase"/>
+  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase,figma"/>
 </div><br/>
 
 
