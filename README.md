@@ -25,5 +25,6 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
 </a>
 
+[![Gmail](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/email.svg)](mailto:gustavo.totti14@gmail.com)
 
 
