@@ -31,7 +31,7 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   </a>
 
   <a href="https://www.instagram.com/gu_sgs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </div>
 
