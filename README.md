@@ -21,9 +21,13 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 
 ## Como me encontrar:
 
-<a href="https://www.linkedin.com/in/gustavo-totti-custodio/" target="_blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
-</a>
+<div>
+  <a href="mailto:gustavo.totti14@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 
-[![Gmail](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg)](mailto:gustavo.totti14@gmail.com)
+  <a href="https://www.linkedin.com/in/gustavo-totti-custodio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</div>
 
