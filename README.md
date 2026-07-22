@@ -19,5 +19,11 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase,figma"/>
 </div><br/>
 
+## Como me encontrar:
+
+<a href="https://www.linkedin.com/in/gustavo-totti-custodio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
+</a>
+
 
 
