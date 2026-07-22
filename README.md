@@ -29,5 +29,9 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   <a href="https://www.linkedin.com/in/gustavo-totti-custodio/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+
+  <a href="https://www.instagram.com/gu_sgs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Instagram" />
+  </a>
 </div>
 
