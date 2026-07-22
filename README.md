@@ -19,7 +19,7 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase,figma"/>
 </div><br/>
 
-## Como me encontrar:
+## Contato:
 
 <div>
   <a href="mailto:gustavo.totti14@gmail.com" target="_blank">
