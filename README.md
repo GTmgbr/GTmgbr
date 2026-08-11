@@ -8,6 +8,7 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 
 > *“A única maneira de fazer um grande trabalho é amando o que se faz.”* - Steve Jobs
 
+<br>
 
 ## Ferramentas que domino:
 
