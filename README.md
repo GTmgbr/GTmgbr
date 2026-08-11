@@ -9,10 +9,10 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 > *“A única maneira de fazer um grande trabalho é amando o que se faz.”* - Steve Jobs
 
 
-## Tecnologias:
+## Ferramentas que domino:
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,php,nodejs,react,html,css,py,c,wordpress,unity"/>
+  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,php,nodejs,react,html,css,py,c,wordpress,unity,linux,git,mongodb,mysql,firebase,figma"/>
 </div><br/>
 
 ## Skills/Ferramentas:
