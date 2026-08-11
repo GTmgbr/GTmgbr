@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gustavo%F0%9F%96%90%EF%B8%8F" /></h1>
 
-Aficcionado por games, educação e tecnologia no geral 👨‍💻
+Aficcionado por games, educação e tecnologia no geral 🌐
 
-Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados 💻
+Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados 👨‍💻
 
 > *“A única maneira de fazer um grande trabalho é amando o que se faz.”* - Steve Jobs
 
