@@ -12,10 +12,10 @@ Tenho interesse em ampliar minhas conexões com a comunidade dev, aprender novos
 ## Ferramentas que domino:
 
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,php,nodejs,react,html,css,py,c,wordpress,unity,linux,git,mongodb,mysql,firebase,figma"/>
+  <img align="center" alt="html5" src="https://skillicons.dev/icons?i=js,php,nodejs,react,html,css,py,c,wordpress,unity"/>
 </div><br/>
 
-## Skills/Ferramentas:
+## Skills:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://skillicons.dev/icons?i=linux,git,mongodb,mysql,firebase,figma"/>
