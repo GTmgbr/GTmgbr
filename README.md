@@ -4,7 +4,7 @@
 
 Aficcionado por games, educação e tecnologia no geral 🌐
 
-Curioso e interessado em resolver problemas, estou motivado a ampliar minhas conexões com a comunidade dev, aprender conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web e Análise de Dados 👨‍💻
+Curioso e interessado em resolver problemas, estou motivado a ampliar minhas conexões com a comunidade dev, aprender conceitos e me aprofundar no mundo da Tecnologia da Informação, principalmente nas áreas de Desenvolvimento Web/Mobile e Análise de Dados 👨‍💻
 
 > *“A única maneira de fazer um grande trabalho é amando o que se faz.”* - Steve Jobs
 
