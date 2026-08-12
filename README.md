@@ -6,7 +6,7 @@ Aficcionado por games, educação e tecnologia no geral 🌐
 
 Curioso e motivado a resolver problemas, sou interessado em ampliar meu contato com a comunidade dev, aprender conceitos e me aprofundar no mundo da TI, principalmente nas áreas de Desenvolvimento Web/Mobile e Análise de Dados 👨‍💻
 
-> *“A única maneira de fazer um grande trabalho é amar o que se faz.”* - Steve Jobs
+> *“A única maneira de fazer um excelente trabalho é amar o que se faz.”* - Steve Jobs
 
 ## Ferramentas:
 
